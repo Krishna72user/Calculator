@@ -1,0 +1,1 @@
+This is a simple calculator with + ,- , * , ^ and / funtionalities . Coded in HTML5 , CSS3 and JavaScript.
