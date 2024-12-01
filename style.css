@@ -60,3 +60,8 @@ footer div{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+@media only screen and (orientation:landscape){
+    .container{
+        margin: 20px auto;
+    }
+}
